@@ -5,5 +5,7 @@ Science Direct Publication: www.sciencedirect.com/science/article/pii/S246806722
 
 # More about Sage Prosthetics and this project
 Sage Prosthetics Website: www.sageprosthetics.org
+
 Main Contributors: Katherine Robertson, Basim Cheema-Sabir, Marcus Yoo
+
 Sage Prosthetics Mentors: Dinh Nguyen, Tanya Lerch
